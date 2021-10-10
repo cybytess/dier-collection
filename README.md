@@ -1,1 +1,2 @@
-# dier-collection
+# DIER Collection
+生成、查看、编辑帝尔复读机收藏文件，以及其他你能想到的一切 (尚在开发中)
